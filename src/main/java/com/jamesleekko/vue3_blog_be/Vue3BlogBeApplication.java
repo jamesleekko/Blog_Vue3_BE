@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Vue3BlogBeApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(Vue3BlogBeApplication.class, args);
+		
 	}
 
 }
